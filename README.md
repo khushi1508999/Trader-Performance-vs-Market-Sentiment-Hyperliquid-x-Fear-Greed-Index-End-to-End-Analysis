@@ -23,10 +23,8 @@ This project investigates how **Bitcoin market sentiment** (Fear & Greed Index) 
 ```
 ├── Project_0.ipynb              # Main analysis notebook (end-to-end)
 ├── Report.pdf                   # Detailed explanation about the methodology, insights and strategic recommendations
-├── historical_data.csv          # Hyperliquid trader data (211,224 rows)
-├── fear_greed_index.csv         # Bitcoin Fear & Greed Index (daily)
 ├── README.md                    # How to run?
-└── charts/                      # Auto-generated output figures (see notebook)
+└── charts/                      
     ├── fig1_eda_distributions.png
     ├── fig2_coins_directions.png
     ├── fig3_performance_fear_greed.png
@@ -37,8 +35,6 @@ This project investigates how **Bitcoin market sentiment** (Fear & Greed Index) 
     ├── fig8_model.png
     └── fig9_clusters.png
 ```
-
----
 
 ## Datasets
 
