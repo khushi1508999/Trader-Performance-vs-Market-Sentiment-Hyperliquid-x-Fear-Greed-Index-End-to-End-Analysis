@@ -22,7 +22,7 @@ This project investigates how **Bitcoin market sentiment** (Fear & Greed Index) 
 
 ```
 ├── Project_0.ipynb              # Main analysis notebook (end-to-end)
-├── Report.pdf                   # Detailed explanation about the methodology, insights and strategic recommendations
+├── methodology_and_insights.md  # Detailed write-up: methodology, insights, strategy 
 ├── README.md                    # How to run?
 └── charts/                      
     ├── fig1_eda_distributions.png
